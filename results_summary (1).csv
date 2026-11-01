@@ -1,0 +1,12 @@
+Measure,Value
+Trading days,2653.0
+Mean daily return,5e-05
+Standard deviation,0.01377
+Skewness,-0.371
+Excess kurtosis,7.154
+Days beyond 3 SD,24.0
+Expected beyond 3 SD (normal),7.2
+Days beyond 4 SD,10.0
+Expected beyond 4 SD (normal),0.17
+Jarque-Bera statistic,5718.45
+Jarque-Bera p-value,0.0
